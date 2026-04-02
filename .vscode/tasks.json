@@ -1,0 +1,10 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "git-init-and-push",
+			"type": "shell",
+			"command": "cd \"C:\\Users\\boudy\\Desktop\\Web\" && git init && git add . && git commit -m \"Add romantic love page and README configuration\" && git branch -M main && git remote add origin https://github.com/hackerz482/Malluka.git 2>nul; git remote set-url origin https://github.com/hackerz482/Malluka.git && git push -u origin main"
+		}
+	]
+}
