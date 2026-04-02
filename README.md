@@ -1,11 +1,10 @@
 ---
 title: Malluka
-emoji: ❤️
+emoji: "❤️"
 colorFrom: pink
 colorTo: red
 sdk: static
-sdk_version: "1.0.0"
-app_file: app.py
+app_file: index.html
 pinned: false
 ---
 
