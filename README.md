@@ -3,8 +3,8 @@ title: Malluka
 emoji: "❤️"
 colorFrom: pink
 colorTo: red
-sdk: static
-app_file: index.html
+sdk: docker
+app_port: 7860
 pinned: false
 ---
 
